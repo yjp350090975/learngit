@@ -6,3 +6,5 @@ GIt tracks changes of files.
 new
 
 dev content
+
+Creating a master new branch is quick & simple.
