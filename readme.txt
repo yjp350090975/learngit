@@ -6,3 +6,5 @@ GIt tracks changes of files.
 new
 
 dev content
+
+Creating a new feature1 branch is quick AND simple.
