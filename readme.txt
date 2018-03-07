@@ -7,4 +7,5 @@ new
 
 dev content
 
-Creating a master new branch is quick & simple.
+Creating a new feature1 branch is quick and simple.
+
